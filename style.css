@@ -1,0 +1,56 @@
+a {
+    color: cornsilk;
+    text-decoration: none;
+}
+
+a:hover {
+    color: rgb(123, 117, 94);
+}
+
+body {
+    width: 80%;
+    margin: 40px;
+    background: url("pic/katsiaryna-endruszkiewicz-BteCp6aq4GI-unsplash.jpg");
+    background-size: cover;
+    color: cornsilk;
+    text-align: center;
+}
+
+h1,
+h2 {
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0px 5px;
+}
+
+.navbar {
+    margin: 5px;
+    display: flex;
+    position: relative;
+    justify-content: space-between;
+}
+
+
+img {
+    width: 100px;
+    display: inline;
+    border: 1px solid white;
+    border-radius: 4px;
+}
+
+.container-1 {
+    display: block;
+    justify-content: space-around;
+    border: none;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+p {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+
+}
